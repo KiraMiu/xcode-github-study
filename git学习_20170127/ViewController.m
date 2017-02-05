@@ -27,6 +27,8 @@
     NSLog(@"my name is %@.",p1.myName);
     
     NSLog(@"my age is %ld.",(long)p1.myAge);
+    
+    NSLog(@"测试代码");
 }
 
 
